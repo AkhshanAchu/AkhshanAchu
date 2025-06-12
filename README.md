@@ -1,4 +1,4 @@
-#  print("Hello, There! 👋") I'm a passionate AI/ML Engineer, debugging life
+#  ("Hello, There! 👋") I'm a passionate AI/ML Engineer, debugging life
 
 ## 🚀 About Me
 I'm an AI enthusiast with a strong focus on **Computer Vision** and **Deep Learning**. I love building intelligent systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science.
