@@ -1,16 +1,16 @@
 #  ("Hello, There! 👋") I'm a passionate AI/ML Engineer, debugging life
 
-## 🚀 About Me
+## About Me
 I'm an AI enthusiast with a strong focus on **Computer Vision** and **Deep Learning**. I love building intelligent systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science.
 
-## 🔥 What I'm passionate about
-- 🤖 **Deep Learning & Neural Networks** - Building smart systems that learn and adapt
-- 👁️ **Computer Vision** - Teaching machines to see and understand the world
-- 🧠 **Machine Learning** - Creating algorithms that make intelligent decisions
-- 🛠️ **Problem Solving** - Developing solutions that simplify complex tasks
-- 🔬 **Research & Innovation** - Pushing the boundaries of what's possible with AI
+##  What I'm passionate about
+-  **Deep Learning & Neural Networks** - Building smart systems that learn and adapt
+-  **Computer Vision** - Teaching machines to see and understand the world
+-  **Machine Learning** - Creating algorithms that make intelligent decisions
+-  **Problem Solving** - Developing solutions that simplify complex tasks
+-  **Research & Innovation** - Pushing the boundaries of what's possible with AI
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -31,13 +31,13 @@ I'm an AI enthusiast with a strong focus on **Computer Vision** and **Deep Learn
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 
-## 💡 Fun Fact
-I believe that the best AI solutions are those that seamlessly integrate into our daily lives, making complex tasks feel effortless! 🚀
+## Fun Fact
+I believe that the best AI solutions are those that seamlessly integrate into our daily lives, making complex tasks feel effortless! 
 
-## 📫 Let's Connect!
+## Let's Connect!
 I'm always excited to collaborate on innovative AI projects or discuss the latest trends in machine learning. Feel free to reach out if you're working on something interesting or just want to chat about AI!
 
 ---
-⭐ **"The future belongs to those who believe in the beauty of their dreams"** - Eleanor Roosevelt
+**"The future belongs to those who believe in the beauty of their dreams"** - Eleanor Roosevelt
 
-*Happy coding and keep innovating!* 🚀✨
+*Happy coding and keep innovating!* 
