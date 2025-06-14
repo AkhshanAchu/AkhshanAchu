@@ -30,19 +30,6 @@ I'm an AI enthusiast with a strong focus on **Computer Vision** and **Deep Learn
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-## 🎯 Current Focus Areas
-- 🖼️ **Generative AI** - GANs, Vision Transformers, and advanced generative models
-- 🔍 **Anomaly Detection** - Real-time systems for surveillance and monitoring
-- 🏥 **Medical AI** - Applying AI to healthcare, medical imaging and Vision Language Models
-- 🌐 **Multimodal AI** - Combining vision and language understanding
-
-## 🔬 Research Interests
-- **Computer Vision**: Object detection, image segmentation, Claas
-- **Deep Learning**: Neural architecture design, optimization techniques
-- **Generative Models**: GANs, VAEs, diffusion models
-- **Real-time Systems**: Edge AI, optimization for resource-constrained devices
-- **Multimodal AI**: Vision-language models, cross-modal understanding
-
 
 ## 💡 Fun Fact
 I believe that the best AI solutions are those that seamlessly integrate into our daily lives, making complex tasks feel effortless! 🚀
