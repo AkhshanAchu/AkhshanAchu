@@ -34,8 +34,10 @@ I'm an enthusiast with a strong focus on **Computer Vision** and **Deep Learning
 ## Fun Fact
 I believe that the best AI solutions are those that seamlessly integrate into our daily lives, making complex tasks feel effortless! 
 
-## Let's Connect!
-I'm always excited to collaborate on innovative AI projects or discuss the latest trends in machine learning. Feel free to reach out if you're working on something interesting or just want to chat about AI!
+## 📊 GitHub Stats & Most Used Languages
+
+![Akhshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhshanachu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhshanachu&layout=compact&theme=tokyonight)
 
 ---
 **"The future belongs to those who believe in the beauty of their dreams"** - Eleanor Roosevelt
