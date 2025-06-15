@@ -4,11 +4,11 @@
 I'm an enthusiast with a strong focus on **Computer Vision** and **Deep Learning**. I love building intelligent systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science.
 
 ##  What I'm passionate about
--  **Deep Learning & Neural Networks** - Building smart systems that learn and adapt
--  **Computer Vision** - Teaching machines to see and understand the world
--  **Machine Learning** - Creating algorithms that make intelligent decisions
--  **Problem Solving** - Developing solutions that simplify complex tasks
--  **Research & Innovation** - Pushing the boundaries of what's possible with AI
+-  **Deep Learning & Neural Networks** -  Let the model overthink and find Pattern
+-  **Computer Vision** - Teaching computers to finally see what’s right in front of them 
+-  **Machine Learning** - Making models crunch numbers until they develop common sense.
+-  **Problem Solving** - Turning “uh-oh” into “aha!” one bug at a time.
+-  **Research & Innovation** - Boldly Googling where no one has Googled before.
 
 ## Tech Stack & Tools
 
