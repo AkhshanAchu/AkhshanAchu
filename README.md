@@ -1,7 +1,7 @@
 #  ("Hello, There! 👋") I'm a Human, debugging life
 
 ## About Me
-I'm an enthusiast with a strong focus on **Computer Vision** and **Deep Learning**. I love building intelligent systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science.
+I'm an enthusiast with a strong focus on **Computer Vision** and **Deep Learning**. I love building systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science. I turn bugs into features and chaos into ‘it just works.’
 
 ##  What I'm passionate about
 -  **Deep Learning & Neural Networks** -  Let the model overthink and find Pattern
@@ -32,12 +32,7 @@ I'm an enthusiast with a strong focus on **Computer Vision** and **Deep Learning
 
 
 ## Fun Fact
-I believe that the best AI solutions are those that seamlessly integrate into our daily lives, making complex tasks feel effortless! 
-
-## 📊 GitHub Stats & Most Used Languages
-
-![Akhshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhshanachu&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhshanachu&layout=compact&theme=tokyonight)
+I believe that the best solutions are those that seamlessly simple yet making complex tasks feel effortless! Behind every simple fix is a complicated night of existential crisis. 
 
 ---
 **"The future belongs to those who believe in the beauty of their dreams"** - Eleanor Roosevelt
