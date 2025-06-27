@@ -32,7 +32,7 @@ I'm an enthusiast with a strong focus on **Computer Vision** and **Deep Learning
 
 
 ## Fun Fact
-I believe that the best solutions are those that seamlessly simple yet making complex tasks feel effortless! Behind every simple fix is a complicated night of existential crisis. 
+I believe that the best solutions are those that are seamlessly simple yet make complex tasks feel effortless! Behind every simple fix is a complicated night of existential crisis. 
 
 ---
 **"The future belongs to those who believe in the beauty of their dreams"** - Eleanor Roosevelt
