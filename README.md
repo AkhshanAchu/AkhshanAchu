@@ -1,7 +1,7 @@
 #  ("Hello, There! 👋") I'm a Human, debugging life
 
 ## About Me
-I'm an Hooman with a strong focus on **Computer Vision** and **Deep Learning**. I love building systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science. I turn bugs into features and chaos into ‘it just works.’
+I'm a Hooman with a focus on **Computer Vision** and **Deep Learning**. I love building systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science. I turn bugs into features and chaos into ‘it just works.’
 
 ##  What I'm passionate about
 -  **Deep Learning & Neural Networks** -  Let the model overthink and find Pattern
