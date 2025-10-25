@@ -1,4 +1,4 @@
-#  ("Hello, There! 👋") I'm a Human, debugging life
+#  ("Hello, There! 👋") I'm a Human, Existing
 
 ## About Me
 I'm a Hooman with a focus on **Computer Vision** and **Deep Learning**. I love building systems that solve real-world problems and make life easier! Currently pursuing my journey in Artificial Intelligence and Data Science. I turn bugs into features and chaos into ‘it just works.’
